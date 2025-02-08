@@ -1,0 +1,14 @@
+{
+  "userList": [
+    {
+      "id": "6d54",
+      "firstName": "laxmi",
+      "lastName": "papi",
+      "userName": "uday",
+      "city": "Kolkatta",
+      "state": "Hyd",
+      "zipcode": "123456",
+      "isAgree": true
+    }
+  ]
+}
